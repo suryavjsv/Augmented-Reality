@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tank1" size="5.000000 5.000000" />
+    <ImageTarget name="22" size="5.000000 8.025404" />
+    <ImageTarget name="grenade-in-the-ground-handgranate-im-boden-HY51DF" size="5.000000 3.680769" />
+    <ImageTarget name="Landmine-representational-photo" size="5.000000 3.750000" />
+    <ImageTarget name="gun1" size="5.000000 2.500000" />
+  </Tracking>
+</QCARConfig>

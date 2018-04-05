@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: b0023a099a92c314dbcb520caf80457d
+timeCreated: 1519757179
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: combatwalk_f_spin
+    100006: g36c
+    100008: j_ankle_le
+    100010: j_ankle_ri
+    100012: j_ball_le
+    100014: j_ball_ri
+    100016: j_bolt_1
+    100018: j_bolt_2
+    100020: j_brow_le
+    100022: j_brow_ri
+    100024: j_cheek_le
+    100026: j_cheek_ri
+    100028: j_chin_skinroll
+    100030: j_clavicle_le
+    100032: j_clavicle_ri
+    100034: j_clip_release
+    100036: j_coatfront_le
+    100038: j_coatfront_ri
+    100040: j_coatrear_le
+    100042: j_coatrear_ri
+    100044: j_elbow_bulge_le
+    100046: j_elbow_bulge_ri
+    100048: j_elbow_le
+    100050: j_elbow_ri
+    100052: j_eye_lid_bot_le
+    100054: j_eye_lid_bot_ri
+    100056: j_eye_lid_top_le
+    100058: j_eye_lid_top_ri
+    100060: j_eyeball_le
+    100062: j_eyeball_ri
+    100064: j_gasmask_front
+    100066: j_gasmask_le
+    100068: j_gasmask_ri
+    100070: j_gun
+    100072: j_head
+    100074: j_head_end
+    100076: j_helmet
+    100078: j_hip_le
+    100080: j_hip_ri
+    100082: j_hiptwist_le
+    100084: j_hiptwist_ri
+    100086: j_index_le_1
+    100088: j_index_le_2
+    100090: j_index_le_3
+    100092: j_index_ri_1
+    100094: j_index_ri_2
+    100096: j_index_ri_3
+    100098: j_jaw
+    100100: j_knee_bulge_le
+    100102: j_knee_bulge_ri
+    100104: j_knee_le
+    100106: j_knee_ri
+    100108: j_levator_le
+    100110: j_levator_ri
+    100112: j_lip_bot_le
+    100114: j_lip_bot_ri
+    100116: j_lip_top_le
+    100118: j_lip_top_ri
+    100120: j_mainroot
+    100122: j_mid_le_1
+    100124: j_mid_le_2
+    100126: j_mid_le_3
+    100128: j_mid_ri_1
+    100130: j_mid_ri_2
+    100132: j_mid_ri_3
+    100134: j_mouth_le
+    100136: j_mouth_ri
+    100138: j_neck
+    100140: j_pinky_le_1
+    100142: j_pinky_le_2
+    100144: j_pinky_le_3
+    100146: j_pinky_ri_1
+    100148: j_pinky_ri_2
+    100150: j_pinky_ri_3
+    100152: j_ring_le_1
+    100154: j_ring_le_2
+    100156: j_ring_le_3
+    100158: j_ring_ri_1
+    100160: j_ring_ri_2
+    100162: j_ring_ri_3
+    100164: j_shoulder_le
+    100166: j_shoulder_ri
+    100168: j_shoulderraise_le
+    100170: j_shoulderraise_ri
+    100172: j_shouldertwist_le
+    100174: j_shouldertwist_ri
+    100176: j_spine4
+    100178: j_spinelower
+    100180: j_spineupper
+    100182: j_thumb_le_1
+    100184: j_thumb_le_2
+    100186: j_thumb_le_3
+    100188: j_thumb_ri_1
+    100190: j_thumb_ri_2
+    100192: j_thumb_ri_3
+    100194: j_wrist_le
+    100196: j_wrist_ri
+    100198: j_wristtwist_le
+    100200: j_wristtwist_ri
+    100202: Null
+    100204: tag_brass
+    100206: tag_clip
+    100208: tag_eye
+    100210: tag_flash
+    100212: tag_g36_scope
+    100214: tag_inhand
+    100216: tag_reflector_arm_le
+    100218: tag_reflector_arm_ri
+    100220: tag_stowed_hip_rear
+    100222: tag_sync
+    100224: tag_weapon_chest
+    100226: tag_weapon_left
+    100228: tag_weapon_right
+    100230: TomMesh_0Mesh
+    100232: TomMesh_0Mesh_2
+    100234: TomMesh_1Mesh
+    100236: TomMesh_1Mesh_2
+    100238: TomMesh_2Mesh
+    100240: TomMesh_2Mesh_2
+    100242: TomMesh_3Mesh
+    100244: TomMesh_3Mesh_2
+    100246: TomMesh_4Mesh
+    100248: TomMesh_4Mesh_2
+    100250: TomMesh_6Mesh
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: combatwalk_f_spin
+    400006: g36c
+    400008: j_ankle_le
+    400010: j_ankle_ri
+    400012: j_ball_le
+    400014: j_ball_ri
+    400016: j_bolt_1
+    400018: j_bolt_2
+    400020: j_brow_le
+    400022: j_brow_ri
+    400024: j_cheek_le
+    400026: j_cheek_ri
+    400028: j_chin_skinroll
+    400030: j_clavicle_le
+    400032: j_clavicle_ri
+    400034: j_clip_release
+    400036: j_coatfront_le
+    400038: j_coatfront_ri
+    400040: j_coatrear_le
+    400042: j_coatrear_ri
+    400044: j_elbow_bulge_le
+    400046: j_elbow_bulge_ri
+    400048: j_elbow_le
+    400050: j_elbow_ri
+    400052: j_eye_lid_bot_le
+    400054: j_eye_lid_bot_ri
+    400056: j_eye_lid_top_le
+    400058: j_eye_lid_top_ri
+    400060: j_eyeball_le
+    400062: j_eyeball_ri
+    400064: j_gasmask_front
+    400066: j_gasmask_le
+    400068: j_gasmask_ri
+    400070: j_gun
+    400072: j_head
+    400074: j_head_end
+    400076: j_helmet
+    400078: j_hip_le
+    400080: j_hip_ri
+    400082: j_hiptwist_le
+    400084: j_hiptwist_ri
+    400086: j_index_le_1
+    400088: j_index_le_2
+    400090: j_index_le_3
+    400092: j_index_ri_1
+    400094: j_index_ri_2
+    400096: j_index_ri_3
+    400098: j_jaw
+    400100: j_knee_bulge_le
+    400102: j_knee_bulge_ri
+    400104: j_knee_le
+    400106: j_knee_ri
+    400108: j_levator_le
+    400110: j_levator_ri
+    400112: j_lip_bot_le
+    400114: j_lip_bot_ri
+    400116: j_lip_top_le
+    400118: j_lip_top_ri
+    400120: j_mainroot
+    400122: j_mid_le_1
+    400124: j_mid_le_2
+    400126: j_mid_le_3
+    400128: j_mid_ri_1
+    400130: j_mid_ri_2
+    400132: j_mid_ri_3
+    400134: j_mouth_le
+    400136: j_mouth_ri
+    400138: j_neck
+    400140: j_pinky_le_1
+    400142: j_pinky_le_2
+    400144: j_pinky_le_3
+    400146: j_pinky_ri_1
+    400148: j_pinky_ri_2
+    400150: j_pinky_ri_3
+    400152: j_ring_le_1
+    400154: j_ring_le_2
+    400156: j_ring_le_3
+    400158: j_ring_ri_1
+    400160: j_ring_ri_2
+    400162: j_ring_ri_3
+    400164: j_shoulder_le
+    400166: j_shoulder_ri
+    400168: j_shoulderraise_le
+    400170: j_shoulderraise_ri
+    400172: j_shouldertwist_le
+    400174: j_shouldertwist_ri
+    400176: j_spine4
+    400178: j_spinelower
+    400180: j_spineupper
+    400182: j_thumb_le_1
+    400184: j_thumb_le_2
+    400186: j_thumb_le_3
+    400188: j_thumb_ri_1
+    400190: j_thumb_ri_2
+    400192: j_thumb_ri_3
+    400194: j_wrist_le
+    400196: j_wrist_ri
+    400198: j_wristtwist_le
+    400200: j_wristtwist_ri
+    400202: Null
+    400204: tag_brass
+    400206: tag_clip
+    400208: tag_eye
+    400210: tag_flash
+    400212: tag_g36_scope
+    400214: tag_inhand
+    400216: tag_reflector_arm_le
+    400218: tag_reflector_arm_ri
+    400220: tag_stowed_hip_rear
+    400222: tag_sync
+    400224: tag_weapon_chest
+    400226: tag_weapon_left
+    400228: tag_weapon_right
+    400230: TomMesh_0Mesh
+    400232: TomMesh_0Mesh_2
+    400234: TomMesh_1Mesh
+    400236: TomMesh_1Mesh_2
+    400238: TomMesh_2Mesh
+    400240: TomMesh_2Mesh_2
+    400242: TomMesh_3Mesh
+    400244: TomMesh_3Mesh_2
+    400246: TomMesh_4Mesh
+    400248: TomMesh_4Mesh_2
+    400250: TomMesh_6Mesh
+    4300000: TomMesh_0Mesh
+    4300002: TomMesh_1Mesh
+    4300004: TomMesh_2Mesh
+    4300006: TomMesh_3Mesh
+    4300008: TomMesh_4Mesh
+    4300010: TomMesh_6Mesh
+    4300012: TomMesh_0Mesh_2
+    4300014: TomMesh_1Mesh_2
+    4300016: TomMesh_2Mesh_2
+    4300018: TomMesh_3Mesh_2
+    4300020: TomMesh_4Mesh_2
+    7400000: Main
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TomMesh_0Mesh
+    13700002: TomMesh_0Mesh_2
+    13700004: TomMesh_1Mesh
+    13700006: TomMesh_1Mesh_2
+    13700008: TomMesh_2Mesh
+    13700010: TomMesh_2Mesh_2
+    13700012: TomMesh_3Mesh
+    13700014: TomMesh_3Mesh_2
+    13700016: TomMesh_4Mesh
+    13700018: TomMesh_4Mesh_2
+    13700020: TomMesh_6Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Null
+        weight: 1
+      - path: Null/combatwalk_f_spin
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_coatfront_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_coatfront_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_coatrear_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_coatrear_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le/j_hiptwist_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le/j_knee_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le/j_knee_le/j_ankle_le/j_ball_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_le/j_knee_le/j_knee_bulge_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri/j_hiptwist_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri/j_knee_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri/j_knee_ri/j_ankle_ri/j_ball_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_hip_ri/j_knee_ri/j_knee_bulge_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_bulge_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_index_le_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_index_le_1/j_index_le_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_index_le_1/j_index_le_2/j_index_le_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_mid_le_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_mid_le_1/j_mid_le_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_mid_le_1/j_mid_le_2/j_mid_le_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_pinky_le_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_pinky_le_1/j_pinky_le_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_pinky_le_1/j_pinky_le_2/j_pinky_le_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_ring_le_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_ring_le_1/j_ring_le_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_ring_le_1/j_ring_le_2/j_ring_le_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/j_thumb_le_1/j_thumb_le_2/j_thumb_le_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wrist_le/tag_weapon_left
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_elbow_le/j_wristtwist_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_le/j_shoulder_le/j_shouldertwist_le/tag_reflector_arm_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_bulge_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_gun
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_index_ri_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_index_ri_1/j_index_ri_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_index_ri_1/j_index_ri_2/j_index_ri_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_mid_ri_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_mid_ri_1/j_mid_ri_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_mid_ri_1/j_mid_ri_2/j_mid_ri_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_pinky_ri_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_pinky_ri_1/j_pinky_ri_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_pinky_ri_1/j_pinky_ri_2/j_pinky_ri_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_ring_ri_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_ring_ri_1/j_ring_ri_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_ring_ri_1/j_ring_ri_2/j_ring_ri_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/j_thumb_ri_1/j_thumb_ri_2/j_thumb_ri_3
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/j_bolt_1
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/j_bolt_1/j_bolt_2
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/j_clip_release
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/tag_brass
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/tag_clip
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/tag_flash
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wrist_ri/tag_weapon_right/g36c/tag_g36_scope
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_elbow_ri/j_wristtwist_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_clavicle_ri/j_shoulder_ri/j_shouldertwist_ri/tag_reflector_arm_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_brow_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_brow_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_cheek_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_cheek_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eye_lid_bot_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eye_lid_bot_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eye_lid_top_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eye_lid_top_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_eyeball_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_gasmask_front
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_gasmask_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_gasmask_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_head_end/j_helmet
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw/j_chin_skinroll
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw/j_lip_bot_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_jaw/j_lip_bot_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_levator_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_levator_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_lip_top_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_lip_top_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_mouth_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/j_mouth_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_neck/j_head/tag_eye
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_shoulderraise_le
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/j_shoulderraise_ri
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_inhand
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/j_spinelower/j_spineupper/j_spine4/tag_weapon_chest
+        weight: 1
+      - path: Null/combatwalk_f_spin/j_mainroot/tag_stowed_hip_rear
+        weight: 1
+      - path: Null/combatwalk_f_spin/tag_sync
+        weight: 1
+      - path: TomMesh_0Mesh
+        weight: 1
+      - path: TomMesh_0Mesh_2
+        weight: 1
+      - path: TomMesh_1Mesh
+        weight: 1
+      - path: TomMesh_1Mesh_2
+        weight: 1
+      - path: TomMesh_2Mesh
+        weight: 1
+      - path: TomMesh_2Mesh_2
+        weight: 1
+      - path: TomMesh_3Mesh
+        weight: 1
+      - path: TomMesh_3Mesh_2
+        weight: 1
+      - path: TomMesh_4Mesh
+        weight: 1
+      - path: TomMesh_4Mesh_2
+        weight: 1
+      - path: TomMesh_6Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
